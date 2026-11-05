@@ -3,3 +3,5 @@ def add(a, b):
 
 def subtract(a , b):
     return a - b
+    """Return the sum of a and b"""
+    return a+b
